@@ -1,0 +1,6 @@
+Q1. Manipulate the volume of computer.
+Q2. Send a sms using python via mobile from pc.
+
+Mini Project
+
+Operate desktop via voice command. Can perform basic commands (including shell commands)
