@@ -1,0 +1,11 @@
+much_hrs    not_hrs_students    marks
+----------------------------------------
+
+8               16                 80
+5               19                 50
+
+
+both variables are the dependent variables
+so X variables should be independent variables
+remove another variables which are the dependent 
+variables in the X variables
